@@ -1,0 +1,16 @@
+﻿  Submission.cpp
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(105,20): warning C4101: 'k': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(157,23): warning C4101: 'k': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(210,12): warning C4101: 'k': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(278,12): warning C4101: 'k': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(278,47): warning C4101: 'count': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(278,9): warning C4101: 'j': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(278,6): warning C4101: 'i': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(377,12): warning C4101: 'k': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(377,9): warning C4101: 'j': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(151): warning C4172: returning address of local variable or temporary: res
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(521): warning C4715: 'findUppercase': not all control paths return a value
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(509): warning C4715: 'isprimeNumber': not all control paths return a value
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(553): warning C4715: 'sum': not all control paths return a value
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\Submission.cpp(488): warning C4715: 'subtractionOfBigInteger': not all control paths return a value
+  Sample-Test1.vcxproj -> C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\x64\Debug\Sample-Test1.exe

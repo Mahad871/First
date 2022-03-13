@@ -1,0 +1,4 @@
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\x64\Debug\Sample-Test1.vcxproj.CopyComplete
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\x64\Debug\Sample-Test1.exe
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\x64\Debug\gtest.pdb
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Sample-Test1\x64\Debug\gtest_main.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67375265-48a6-411d-abc4-d77da6e4d4b6": {
+      "ProjectGuid": "67375265-48a6-411d-abc4-d77da6e4d4b6",
+      "DisplayName": "Assignment 1",
+      "ColorIndex": 0
+    },
+    "71e900d2-95a5-449d-845e-3fe560495103": {
+      "ProjectGuid": "71e900d2-95a5-449d-845e-3fe560495103",
+      "DisplayName": "google test",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
