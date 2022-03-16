@@ -1,0 +1,4 @@
+﻿  source.cpp
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Lab 2\index\index\task3 and 4.h(7,9): warning C4101: 'n': unreferenced local variable
+C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Lab 2\index\index\task3 and 4.h(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  index.vcxproj -> C:\Users\msasd\OneDrive\Desktop\Vs Code\Semester 2\OOP Lab\Lab 2\index\x64\Debug\index.exe
