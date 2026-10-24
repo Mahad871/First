@@ -9,3 +9,6 @@
 *.recipe
 *.tlog
 .vs/
+
+# Additional compiler and archive metadata
+*.o
