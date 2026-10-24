@@ -1,0 +1,11 @@
+# Generated files removed during repository cleanup
+**/[Dd]ebug/*.log
+*.idb
+*.ilk
+*.lastbuildstate
+*.obj
+*.pch
+*.pdb
+*.recipe
+*.tlog
+.vs/
